@@ -27,6 +27,9 @@ Go ahead and write an R code in the chunk below that prints your favorite movie.
 ```{r}
 print("My favorite movie is Big Fish!")
 ```
+```{r}
+print("my favorite movie is bridesmaids")
+```
 
 ## Task 3
 
